@@ -15,9 +15,7 @@ This single-page web application walks users through the complete cXML integrati
 
 ## Live Site
 
-> **https://YOUR_USERNAME.github.io/sbn-integration-hub/**
->
-> *(Update this URL after enabling GitHub Pages)*
+> **https://foom-552.github.io/SBN-Integration-Hub/**
 
 ## Quick Start
 
